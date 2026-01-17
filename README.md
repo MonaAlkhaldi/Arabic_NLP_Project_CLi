@@ -63,7 +63,7 @@ No more context switching:
 ### 📊 **Production-Ready Outputs**
 Everything you need to ship:
 - Markdown reports with metrics
-- Confusion matrices & classification reports
+- classification reports
 - Saved models ready for deployment
 - Beautiful visualizations for stakeholders
 
@@ -83,7 +83,6 @@ Understand your data instantly:
 
 ---
 
-## 🌊 The Pipeline Flow
 
 ## 🌊 The Pipeline Flow
 ```
