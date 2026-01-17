@@ -4,6 +4,12 @@
 
 ### *From Raw Arabic Text to Production-Ready Models in One Command*
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![CLI](https://img.shields.io/badge/CLI-Tool-green.svg)](https://github.com/yourusername/arabic-nlp-cli)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-orange.svg)](https://en.wikipedia.org/wiki/Arabic)
+
+</div>
+
 
 ## 🎯 The Problem
 
@@ -22,14 +28,14 @@ You have Arabic text data. You need a classification model. Between you and prod
 # One command. One pipeline. Done.
 python main.py pipeline reviews.csv review_text rating --embed model2vec
 
-
+```
 **5 minutes later:**
 - ✅ Exploratory visualizations generated
 - ✅ 40,000+ texts preprocessed and normalized
 - ✅ Semantic embeddings created
 - ✅ 4 models trained and evaluated
 - ✅ Best model saved with full performance report
-```
+
 ---
 
 ## 🚀 What Makes This Special
