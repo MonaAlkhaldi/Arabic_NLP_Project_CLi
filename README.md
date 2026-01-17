@@ -21,7 +21,7 @@ You have Arabic text data. You need a classification model. Between you and prod
 ```bash
 # One command. One pipeline. Done.
 python main.py pipeline reviews.csv review_text rating --embed model2vec
-```
+
 
 **5 minutes later:**
 - ✅ Exploratory visualizations generated
@@ -29,7 +29,7 @@ python main.py pipeline reviews.csv review_text rating --embed model2vec
 - ✅ Semantic embeddings created
 - ✅ 4 models trained and evaluated
 - ✅ Best model saved with full performance report
-
+```
 ---
 
 ## 🚀 What Makes This Special
