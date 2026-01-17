@@ -9,6 +9,27 @@
 [![Arabic](https://img.shields.io/badge/Language-Arabic-orange.svg)](https://en.wikipedia.org/wiki/Arabic)
 
 </div>
+---
+
+## 📚 Table of Contents
+
+- [🎯 The Problem](#-the-problem)
+- [✨ The Solution](#-the-solution)
+- [🚀 What Makes This Special](#-what-makes-this-special)
+- [🌊 The Pipeline Flow](#-the-pipeline-flow)
+- [🛠️ Installation](#️-installation)
+  - [Setup in 3 Steps](#setup-in-3-steps)
+  - [Verify Installation](#verify-installation)
+- [🎬 Quick Start](#-quick-start)
+  - [The One-Liner](#the-one-liner)
+  - [Step-by-Step Breakdown](#step-by-step-breakdown)
+- [🔬 Under the Hood](#-under-the-hood)
+  - [Preprocessing Pipeline](#preprocessing-pipeline)
+  - [Embedding Options](#embedding-options)
+- [📈 Sample Results](#-sample-results)
+- [📁 Output Structure](#-output-structure)
+
+---
 
 
 ## 🎯 The Problem
@@ -129,6 +150,12 @@ python -m venv .venv
 uv sync
 # 4 Make sure you are in Arabic_NLP_Project_CLi
 cd Arabic_NLP_Project_CLi
+```
+
+
+### When u want to start running **Remember** this comman :)
+```bash
+python main.py pipeline reviews.csv review_text rating --embed model2vec
 ```
 
 
