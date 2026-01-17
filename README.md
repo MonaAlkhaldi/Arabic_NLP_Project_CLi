@@ -127,7 +127,11 @@ python -m venv .venv
 .venv\Scripts\activate
 # 3. Sync dependencies with uv
 uv sync
+# 4 Make sure you are in Arabic_NLP_Project_CLi
+cd Arabic_NLP_Project_CLi
 ```
+
+
 
 ### Verify Installation
 
