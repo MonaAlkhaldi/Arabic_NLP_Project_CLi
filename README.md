@@ -185,6 +185,12 @@ Commands:
 
 ## 🎬 Quick Start
 
+### 📊 Dataset
+
+This project uses the **Arabic Company Reviews** dataset for demonstration.
+
+🔗 **[Download Dataset: Arabic Company Reviews (عربي)](https://www.kaggle.com/datasets/your-dataset-link)**
+
 ### The One-Liner
 
 ```bash
